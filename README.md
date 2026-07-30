@@ -38,8 +38,8 @@ Perform incremental data processing using Delta Lake MERGE operation on customer
 - New records inserted: 2
 
 ### 7. Summary
-- MERGE Operation: ✅ SUCCESS
-- Delta Lake Implementation: ✅ COMPLETE
+- MERGE Operation:SUCCESS
+- Delta Lake Implementation:COMPLETE
 
 ## Repository Structure
 
